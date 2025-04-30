@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Hannae </h1>
-<h3 align="center">Frontend Developer enfocada en crear experiencias digitales funcionales, intuitivas y visualmente atractivas.</h3>
+<h3 align="center">Frontend Developer enfocado en crear experiencias digitales funcionales, intuitivas y visualmente atractivas.</h3>
 
 ---
 
