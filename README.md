@@ -1,10 +1,10 @@
-<h1 align="center">Hola, soy Hannae 👩‍💻</h1>
+<h1 align="center">Hola, soy Hannae </h1>
 <h3 align="center">Frontend Developer enfocada en crear experiencias digitales funcionales, intuitivas y visualmente atractivas.</h3>
 
 ---
 
 🌟 **Sobre mí**  
-Soy una desarrolladora con pasión por el frontend, obsesionada con los detalles y la interactividad. Me gusta transformar ideas en interfaces funcionales y elegantes, combinando diseño, código y experiencia de usuario.
+Soy un desarrollador con pasión por el frontend, obsesionado con los detalles y la interactividad. Me gusta transformar ideas en interfaces funcionales y elegantes, combinando diseño, código y experiencia de usuario.
 
 - 🎨 Diseño + Lógica: Desarrollo frontend con visión estética y pensamiento estructurado.
 - ⚙️ Explorando el fullstack para integrar backend y lógica de negocio.
