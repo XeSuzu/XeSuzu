@@ -23,15 +23,24 @@
 
 ### 👾 Sobre mí
 
-Soy **Hannae**, frontend developer con obsesión por los detalles y el diseño.  
-Vivo en la intersección entre **estética y lógica** — donde el código también es una forma de expresión.
+Todo empezó queriendo personalizar una PC.  
+De ahí no paré.
 
-- 🎨 Diseño interfaces que se sienten bien, no solo que se ven bien
-- ⚙️ Expandiéndome hacia fullstack para tener control total
-- 🤖 Construyo bots, dashboards y herramientas que resuelven problemas reales
-- 🌱 Siempre aprendiendo — actualmente profundizando en arquitectura y rendimiento
+Soy **Hannae**, 18 años, desde 🇪🇨 Ecuador.  
+3 años explorando, 1 ejerciendo — y cada proyecto  
+me confirma que esto es lo mío.
 
-<br/><br/><br/><br/>
+Me quedo en frontend porque me gusta que lo que construyo  
+**se sienta vivo**. Que dé gusto interactuar con ello,  
+que cada detalle tenga una razón de estar ahí.  
+Minimalista, detallista, obsesionado con que algo  
+*funcione bien aunque sea lo más mínimo*.
+
+Mi zona favorita por ahora es el ecosistema de Discord —  
+bots, herramientas, experiencias dentro de servidores.  
+Pero también webs, dashboards, lo que venga.
+
+<br/><br/>
 
 ---
 
@@ -47,9 +56,9 @@ Vivo en la intersección entre **estética y lógica** — donde el código tamb
 <td width="50%" valign="top">
 
 ### 🌸 Hoshiko — Discord Bot
-Bot de Discord completo con personalidad propia. Combina moderación inteligente por puntos, sistema de memes con ranking en tiempo real, interacciones sociales y conversación con IA a través de Google Gemini.
+Bot de Discord con personalidad propia. Moderación inteligente por puntos, sistema de memes con ranking en tiempo real, interacciones sociales y conversación con IA a través de Google Gemini.
 
-**Lo interesante:** arquitectura modular, sistema de seguridad propio (blacklist, rate limiter, sanitizer), historial de conversación persistente y acciones automáticas configurables por servidor.
+**Por debajo:** arquitectura modular, sistema de seguridad propio (blacklist, rate limiter, sanitizer), historial de conversación persistente en MongoDB y acciones automáticas configurables por servidor.
 
 <br/>
 
@@ -62,9 +71,9 @@ Bot de Discord completo con personalidad propia. Combina moderación inteligente
 <td width="50%" valign="top">
 
 ### 🏥 Dashboard Veterinaria
-Panel de gestión completo pensado para flujos de trabajo reales. Pacientes, citas, tratamientos, personal, facturación y portal del cliente — todo integrado y coherente.
+Panel de gestión completo diseñado para flujos de trabajo reales. Pacientes, citas, tratamientos, personal, facturación y portal del cliente — todo en un solo lugar.
 
-**Lo interesante:** modo oscuro/claro, UI diseñada con atención a la UX, gestión de roles y accesos, y arquitectura pensada para escalar.
+**Por debajo:** modo oscuro/claro, gestión de roles y accesos, UI pensada para que sea cómoda de usar todos los días, no solo bonita en el demo.
 
 <br/><br/>
 
@@ -155,6 +164,12 @@ Panel de gestión completo pensado para flujos de trabajo reales. Pacientes, cit
 <br/>
 
 ---
+
+<div align="center">
+  <sub>Abierto a colaboraciones, ideas raras y proyectos que valgan la pena construir.</sub>
+</div>
+
+<br/>
 
 <div align="center">
 
