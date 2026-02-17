@@ -1,27 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c792ea,100:82aaff&height=200&section=header&text=Hannae&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%2F%20Builder%20of%20things&descSize=18&descAlignY=58&descColor=a9b1d6&animation=fadeIn" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hannae&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%94%20Ecuador%20%F0%9F%87%AA%F0%9F%87%A8&descSize=18&descAlignY=58&descColor=a9b1d6&animation=fadeIn" />
 
 <br/>
 
-<div align="center">
-
-```
-  No me basta con que funcione.
-  Tiene que sentirse bien usarlo.
-```
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Todo+empez%C3%B3+queriendo+personalizar+una+PC.;3+a%C3%B1os+explorando%2C+1+ejerciendo.;Frontend+dev+%E2%80%94+obsesionado+con+los+detalles.;Que+se+vea+bien.+Que+funcione+mejor.)](https://git.io/typing-svg)
 
 <br/>
+
+</div>
 
 ---
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=XeSuzu&bg_color=0d1117&color=c792ea&line=82aaff&point=ffffff&area=true&hide_border=true" width="55%"/>
+<br/>
 
-### 👾 Sobre mí
+<img align="right" width="42%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeSuzu&bg_color=0d1117&color=c792ea&line=82aaff&point=c792ea&area=true&area_color=c792ea&hide_border=true&radius=8" />
+
+<br/>
+
+### 👾 &nbsp; Sobre mí
 
 Todo empezó queriendo personalizar una PC.  
 De ahí no paré.
@@ -32,13 +29,25 @@ me confirma que esto es lo mío.
 
 Me quedo en frontend porque me gusta que lo que construyo  
 **se sienta vivo**. Que dé gusto interactuar con ello,  
-que cada detalle tenga una razón de estar ahí.  
-Minimalista, detallista, obsesionado con que algo  
-*funcione bien aunque sea lo más mínimo*.
+que cada detalle tenga una razón de estar ahí.
 
-Mi zona favorita por ahora es el ecosistema de Discord —  
+Minimalista por naturaleza, detallista por costumbre.  
+Mi zona favorita por ahora es el ecosistema **Discord** —  
 bots, herramientas, experiencias dentro de servidores.  
-Pero también webs, dashboards, lo que venga.
+Pero también webs, dashboards, lo que valga la pena.
+
+<br/>
+
+```typescript
+const hannae = {
+  edad:      18,
+  ubicacion: "Ecuador 🇪🇨",
+  explorando: "3 años",
+  ejerciendo: "1 año",
+  enfoque:   ["Frontend", "Discord ecosystem", "UI/UX"],
+  filosofia: "Que se vea bien. Que funcione mejor.",
+};
+```
 
 <br/><br/>
 
@@ -46,45 +55,68 @@ Pero también webs, dashboards, lo que venga.
 
 <br/>
 
-## 🔨 Proyectos destacados
+## 🔨 &nbsp; Proyectos destacados
 
 <br/>
 
 <div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-### 🌸 Hoshiko — Discord Bot
-Bot de Discord con personalidad propia. Moderación inteligente por puntos, sistema de memes con ranking en tiempo real, interacciones sociales y conversación con IA a través de Google Gemini.
-
-**Por debajo:** arquitectura modular, sistema de seguridad propio (blacklist, rate limiter, sanitizer), historial de conversación persistente en MongoDB y acciones automáticas configurables por servidor.
+<div align="center">
+  <img src="https://img.shields.io/badge/🌸_HOSHIKO-Discord_Bot-c792ea?style=for-the-badge&labelColor=0d1117"/>
+</div>
 
 <br/>
+
+Bot de Discord con personalidad propia. Moderación inteligente por puntos, memes con ranking en tiempo real, interacciones sociales y conversación con IA vía Google Gemini.
+
+**Por debajo:** arquitectura modular, sistema de seguridad propio (blacklist + rate limiter + sanitizer), historial persistente en MongoDB y acciones automáticas por servidor.
+
+<br/>
+
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
+</div>
+<br/>
 </td>
-<td width="50%" valign="top">
 
-### 🏥 Dashboard Veterinaria
-Panel de gestión completo diseñado para flujos de trabajo reales. Pacientes, citas, tratamientos, personal, facturación y portal del cliente — todo en un solo lugar.
+<td width="50%" valign="top">
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏥_DASHBOARD-Veterinaria-82aaff?style=for-the-badge&labelColor=0d1117"/>
+</div>
+
+<br/>
+
+Panel de gestión completo para flujos de trabajo reales. Pacientes, citas, tratamientos, personal, facturación y portal del cliente — todo integrado.
 
 **Por debajo:** modo oscuro/claro, gestión de roles y accesos, UI pensada para que sea cómoda de usar todos los días, no solo bonita en el demo.
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+</div>
+<br/>
 </td>
 </tr>
 </table>
+
 </div>
 
 <br/>
@@ -93,27 +125,37 @@ Panel de gestión completo diseñado para flujos de trabajo reales. Pacientes, c
 
 <br/>
 
-## 🛠️ Stack técnico
+## 🛠️ &nbsp; Stack técnico
 
 <br/>
 
 <div align="center">
 
-**Frontend**
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark&perline=7" />
+**⚡ Frontend**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark&perline=4" />
 
-**Backend & DB**
+</td>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=7" />
+**🗄️ Backend & DB**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=4" />
 
-**Herramientas**
+</td>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=figma,git,linux,bash,flutter,dart&theme=dark&perline=7" />
+**🔧 Herramientas**
+
+<img src="https://skillicons.dev/icons?i=figma,git,linux,bash,flutter&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -123,19 +165,19 @@ Panel de gestión completo diseñado para flujos de trabajo reales. Pacientes, c
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 &nbsp; GitHub Stats
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XeSuzu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=82aaff&text_color=a9b1d6&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=XeSuzu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=a9b1d6&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=XeSuzu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=82aaff&text_color=a9b1d6&count_private=true&rank_icon=github" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=XeSuzu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=a9b1d6&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XeSuzu&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=82aaff&currStreakLabel=c792ea&sideLabels=a9b1d6&dates=a9b1d6" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XeSuzu&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=82aaff&currStreakLabel=c792ea&sideLabels=a9b1d6&dates=a9b1d6&stroke=0d1117" height="175"/>
 
 </div>
 
@@ -145,7 +187,7 @@ Panel de gestión completo diseñado para flujos de trabajo reales. Pacientes, c
 
 <br/>
 
-## 🌐 Conecta conmigo
+## 🌐 &nbsp; Conecta conmigo
 
 <br/>
 
@@ -154,10 +196,14 @@ Panel de gestión completo diseñado para flujos de trabajo reales. Pacientes, c
 <a href="https://www.instagram.com/nt_1xs/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tu-linkedin-aqui">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=XeSuzu&style=flat-square&color=c792ea&label=profile+views" />
 
 </div>
 
@@ -172,7 +218,5 @@ Panel de gestión completo diseñado para flujos de trabajo reales. Pacientes, c
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:82aaff,50:c792ea,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=fadeIn"/>
 </div>
