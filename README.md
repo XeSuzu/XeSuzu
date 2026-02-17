@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Todo+empez%C3%B3+queriendo+personalizar+una+PC.;3+a%C3%B1os+explorando%2C+1+ejerciendo.;Frontend+dev+%E2%80%94+obsesionado+con+los+detalles.;Que+se+vea+bien.+Que+funcione+mejor.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;Frontend+dev+con+alma+de+dise%C3%B1ador.;Discord+ecosystem+is+my+home.;Construyo+cosas+que+dan+gusto+usar.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,9 +19,6 @@
 <br/>
 
 ### 👾 &nbsp; Sobre mí
-
-Todo empezó queriendo personalizar una PC.  
-De ahí no paré.
 
 Soy **Hannae**, 18 años, desde 🇪🇨 Ecuador.  
 3 años explorando, 1 ejerciendo — y cada proyecto  
