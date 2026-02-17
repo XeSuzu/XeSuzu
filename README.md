@@ -1,67 +1,81 @@
-<h1 align="center">Hola, soy Hannae </h1>
-<h3 align="center">Frontend Developer enfocado en crear experiencias digitales funcionales, intuitivas y visualmente atractivas.</h3>
+<div align="center">
+
+```
+╔═══════════════════════════════════════╗
+║   Hola, soy Hannae  —  XeSuzu        ║
+║   Frontend dev. Construyo cosas       ║
+║   que se ven bien y funcionan mejor.  ║
+╚═══════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-🌟 **Sobre mí**  
-Soy un desarrollador con pasión por el frontend, obsesionado con los detalles y la interactividad. Me gusta transformar ideas en interfaces funcionales y elegantes, combinando diseño, código y experiencia de usuario.
+Soy frontend developer con obsesión por los detalles. No me basta con que algo *funcione* — tiene que sentirse bien usarlo. Vivo en la intersección entre diseño y código, donde la lógica y la estética no son opuestos.
 
-- 🎨 Diseño + Lógica: Desarrollo frontend con visión estética y pensamiento estructurado.
-- ⚙️ Explorando el fullstack para integrar backend y lógica de negocio.
-- 🧠 Siempre aprendiendo nuevas herramientas y frameworks.
-- 🐾 Proyecto destacado: **Dashboard de Veterinaria**  
-  Panel completo con gestión de pacientes, citas, tratamientos, personal, facturación, modo oscuro/claro, y portal del cliente.
+Actualmente expandiéndome hacia fullstack para tener control total de lo que construyo.
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🔨 Lo que he construido
+
+### 🐾 Hoshiko — Discord Bot
+Bot de Discord completo con moderación por puntos, sistema de memes con ranking, interacciones sociales y respuestas de IA conversacional con Google Gemini. Construido en TypeScript, con MongoDB, arquitectura modular y sistema de seguridad propio.
+
+`TypeScript` `Discord.js` `MongoDB` `Gemini AI` `Node.js`
+
+---
+
+### 🏥 Dashboard de Veterinaria
+Panel de gestión completo: pacientes, citas, tratamientos, personal y facturación — todo en uno. Portal del cliente integrado, modo oscuro/claro y UI diseñada para flujos de trabajo reales.
+
+`React` `TailwindCSS` `Node.js` `MySQL`
+
+---
+
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" title="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="38" height="38" title="Next.js"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38" height="38" title="TailwindCSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="38" height="38" title="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="38" height="38" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="38" height="38" title="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38" height="38" title="Figma"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="38" height="38" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="38" height="38" title="Flutter"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XeSuzu&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeSuzu&theme=tokyonight" alt="streaks"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XeSuzu&layout=compact&theme=tokyonight" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XeSuzu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=c792ea&text_color=a9b1d6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XeSuzu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=a9b1d6" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeSuzu&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=c792ea&currStreakLabel=c792ea" height="150"/>
 </p>
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Encuéntrame
 
 <p align="center">
-  <a href="https://www.instagram.com/nt_1xs/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/nt_1xs/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/tu-linkedin-aqui">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
-
-> *"Codea como si tus usuarios estuvieran mirando."*
+<div align="center">
+  <sub>Abierto a colaboraciones e ideas raras.</sub>
+</div>
