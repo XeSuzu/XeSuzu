@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=760&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+bots%2C+APIs+y+cosas+que+dan+gusto+usar.;Construyo+experiencias+con+l%C3%B3gica+y+detalle.;Discord+no+es+solo+mi+ecosistema%2C+es+mi+laboratorio.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=780&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+bots%2C+APIs+y+experiencias+que+dan+gusto+usar.;Construyo+cosas+con+l%C3%B3gica%2C+detalle+y+personalidad.;Discord+es+mi+ecosistema%2C+pero+no+mi+l%C3%ADmite.)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -25,19 +25,19 @@
 ### 👾 &nbsp; Sobre mí
 
 Soy **Hannae**, developer de 🇪🇨 Ecuador.  
-Trabajo con **TypeScript**, conexiones con Discord, rutas, APIs e interfaces que se sientan bien al usarlas.
+Trabajo principalmente con **TypeScript**, bots de Discord, APIs, rutas e interfaces que se sientan bien al usarlas.
 
-Me interesa el punto donde se juntan diseño, lógica y experiencia.  
-No me quedo solo en cómo se ve: también construyo lo que hace que funcione.
+Me interesa el punto donde se cruzan diseño, estructura y experiencia.  
+No me enfoco solo en cómo se ve una idea, sino también en cómo se conecta, responde y se sostiene detrás.
 
 <br/>
 
 ```typescript
 const hannae = {
-  ubicacion: "Ecuador 🇪🇨",
   lenguaje: "TypeScript",
-  construyo: ["Bots", "APIs", "Rutas", "Interfaces"],
-  foco: "Experiencias que se sientan vivas",
+  ubicacion: "Ecuador 🇪🇨",
+  especialidad: ["Bots", "APIs", "Rutas", "UI con intención"],
+  enfoque: "Experiencias con lógica, detalle y personalidad",
   filosofia: "Que se vea bien. Que funcione mejor.",
 };
 ```
@@ -48,16 +48,18 @@ const hannae = {
 
 <br/>
 
-## ✨ &nbsp; Ahora mismo
+## ✦ &nbsp; Highlights
 
 <br/>
 
 <div align="center">
 
-![](https://img.shields.io/badge/🌸%20Hoshiko-En%20desarrollo%20activo-c792ea?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🧠%20IA-Integraciones%20y%20flujo-82aaff?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🛡️%20Seguridad-Rate%20limit%20y%20sanitizado-c792ea?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/📦%20MongoDB-Historial%20persistente-82aaff?style=for-the-badge&labelColor=0d1117)
+| Enfoque | Lo que hago |
+|--------|-------------|
+| 🤖 Bots | Construyo bots para Discord con personalidad, lógica modular e interacciones útiles |
+| 🔌 APIs | Diseño y conecto rutas, servicios e integraciones para flujos reales |
+| 🧠 Arquitectura | Me gusta que un proyecto esté ordenado por dentro, no solo bonito por fuera |
+| 🎨 UI/UX | Cuido la experiencia, el detalle y cómo se siente usar lo que construyo |
 
 </div>
 
@@ -67,27 +69,40 @@ const hannae = {
 
 <br/>
 
-## 🔨 &nbsp; Proyectos destacados
+## 🌸 &nbsp; Proyecto principal
 
 <br/>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<br/>
+<img src="https://img.shields.io/badge/HOSHIKO-Discord%20Bot-c792ea?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo%20activo-82aaff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Acceso-Privado-c792ea?style=for-the-badge&labelColor=0d1117" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🌸_HOSHIKO-Discord_Bot-c792ea?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
 <br/>
 
-Bot de Discord con personalidad propia.  
-Moderación por puntos, memes con ranking en tiempo real, interacciones sociales y conversación con IA.
+**Hoshiko** es el proyecto donde más se nota cómo pienso y construyo.  
+Es un bot de Discord con personalidad propia, centrado en interacción, automatización, sistemas sociales y funciones con IA.
 
-**Por debajo:** arquitectura modular, seguridad propia, historial persistente en MongoDB y automatizaciones por servidor.
+### Lo que tiene
+
+- Moderación basada en puntos.
+- Sistema de memes con ranking en tiempo real.
+- Interacciones sociales dentro de servidores.
+- Conversación con IA.
+- Historial persistente por usuario y contexto.
+- Acciones automáticas configurables por servidor.
+
+### Por debajo
+
+- Arquitectura modular.
+- Sistema de seguridad propio.
+- Blacklist, rate limiter y sanitizado.
+- Integración con MongoDB.
+- Manejo de estado y persistencia.
+- Separación clara entre lógica, handlers y features.
 
 <br/>
 
@@ -97,53 +112,6 @@ Moderación por puntos, memes con ranking en tiempo real, interacciones sociales
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>🔒 Repositorio privado · desarrollo activo</sub>
-</div>
-
-<br/>
-</td>
-
-<td width="50%" valign="top">
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🏥_VET_DASHBOARD-Panel_de_gestión-82aaff?style=for-the-badge&labelColor=0d1117"/>
-</div>
-
-<br/>
-
-Dashboard para una veterinaria con flujos reales.  
-Pacientes, citas, tratamientos, personal, facturación y portal del cliente en un solo sistema.
-
-**Por debajo:** roles, accesos, modo oscuro/claro y una UI pensada para uso diario, no solo para verse bonita.
-
-<br/>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>🔒 Repositorio privado · UI/UX + lógica de negocio</sub>
-</div>
-
-<br/>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -189,7 +157,7 @@ Tools      → Figma, Git, Linux, Bash
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=XeSuzu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=82aaff&text_color=a9b1d6&count_private=true&rank_icon=github" height="175"/>
-
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XeSuzu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=a9b1d6&langs_count=8" height="175"/>
 
 <br/><br/>
