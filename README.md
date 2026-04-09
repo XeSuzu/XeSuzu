@@ -8,6 +8,16 @@
 
 <br/><br/>
 
+<a href="https://www.instagram.com/nt_1xs/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://discord.com/users/XeSuzu">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br/><br/>
+
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/APIs-82AAFF?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -22,23 +32,42 @@
 
 <img align="right" width="42%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeSuzu&bg_color=0d1117&color=c792ea&line=82aaff&point=c792ea&area=true&area_color=c792ea&hide_border=true&radius=8" />
 
-### 👾 &nbsp; Sobre mí
+## 👾 &nbsp; Sobre mí
 
 Soy **Hannae**, developer de 🇪🇨 Ecuador.  
 Trabajo principalmente con **TypeScript**, bots de Discord, APIs, rutas e interfaces que se sientan bien al usarlas.
 
-Me interesa el punto donde se cruzan diseño, estructura y experiencia.  
-No me enfoco solo en cómo se ve una idea, sino también en cómo se conecta, responde y se sostiene detrás.
+Me gusta el punto donde se cruzan diseño, estructura y experiencia.  
+No busco solo que algo se vea bien, sino que tenga lógica, personalidad y una base sólida detrás.
 
 <br/>
 
-```typescript
+```ts
 const hannae = {
-  lenguaje: "TypeScript",
-  ubicacion: "Ecuador 🇪🇨",
-  especialidad: ["Bots", "APIs", "Rutas", "UI con intención"],
-  enfoque: "Experiencias con lógica, detalle y personalidad",
-  filosofia: "Que se vea bien. Que funcione mejor.",
+  name: "Hannae",
+  location: "Ecuador 🇪🇨",
+  mainLanguage: "TypeScript",
+  role: "Developer",
+  focus: [
+    "Discord bots",
+    "APIs",
+    "Routes",
+    "UI that feels good to use",
+  ],
+  currentlyBuilding: ["Hoshiko"],
+  stack: {
+    frontend: ["React", "Next.js", "TailwindCSS", "HTML", "CSS"],
+    backend: ["Node.js", "Express", "REST APIs", "Discord.js"],
+    databases: ["MongoDB", "MySQL", "Firebase"],
+    tools: ["Git", "Linux", "Bash", "Figma"],
+  },
+  strengths: [
+    "Modular architecture",
+    "Real-time systems",
+    "Persistent data flows",
+    "Developer experience",
+  ],
+  philosophy: "Que se vea bien. Que funcione mejor.",
 };
 ```
 
@@ -54,12 +83,12 @@ const hannae = {
 
 <div align="center">
 
-| Enfoque | Lo que hago |
-|--------|-------------|
-| 🤖 Bots | Construyo bots para Discord con personalidad, lógica modular e interacciones útiles |
-| 🔌 APIs | Diseño y conecto rutas, servicios e integraciones para flujos reales |
-| 🧠 Arquitectura | Me gusta que un proyecto esté ordenado por dentro, no solo bonito por fuera |
-| 🎨 UI/UX | Cuido la experiencia, el detalle y cómo se siente usar lo que construyo |
+| Área | Enfoque |
+|------|---------|
+| 🤖 Bots | Bots de Discord con personalidad, sistemas y features útiles |
+| 🔌 APIs | Rutas, integraciones y flujos conectados para features reales |
+| 🧠 Arquitectura | Estructura modular, orden interno y escalabilidad |
+| 🎨 UI/UX | Interfaces cuidadas, claras y agradables de usar |
 
 </div>
 
@@ -86,7 +115,10 @@ const hannae = {
 **Hoshiko** es el proyecto donde más se nota cómo pienso y construyo.  
 Es un bot de Discord con personalidad propia, centrado en interacción, automatización, sistemas sociales y funciones con IA.
 
-### Lo que tiene
+<details open>
+<summary><strong>Lo que tiene</strong></summary>
+
+<br/>
 
 - Moderación basada en puntos.
 - Sistema de memes con ranking en tiempo real.
@@ -95,7 +127,12 @@ Es un bot de Discord con personalidad propia, centrado en interacción, automati
 - Historial persistente por usuario y contexto.
 - Acciones automáticas configurables por servidor.
 
-### Por debajo
+</details>
+
+<details open>
+<summary><strong>Por debajo</strong></summary>
+
+<br/>
 
 - Arquitectura modular.
 - Sistema de seguridad propio.
@@ -103,6 +140,8 @@ Es un bot de Discord con personalidad propia, centrado en interacción, automati
 - Integración con MongoDB.
 - Manejo de estado y persistencia.
 - Separación clara entre lógica, handlers y features.
+
+</details>
 
 <br/>
 
@@ -141,6 +180,22 @@ Backend    → Node.js, Express, APIs, rutas, integraciones
 Database   → MongoDB, MySQL, Firebase
 Tools      → Figma, Git, Linux, Bash
 ```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏆 &nbsp; Logros visuales
+
+<br/>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=XeSuzu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
