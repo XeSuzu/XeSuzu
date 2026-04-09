@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hannae&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%94%20Ecuador%20%F0%9F%87%AA%F0%9F%87%A8&descSize=18&descAlignY=58&descColor=a9b1d6&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Hannae&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%94%20TypeScript%20%C2%B7%20Bots%20%C2%B7%20APIs%20%C2%B7%20UI&descSize=18&descAlignY=58&descColor=a9b1d6&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;Frontend+dev+con+alma+de+dise%C3%B1ador.;El+ecosistema+Discord+es+mi+casa.;Construyo+cosas+que+dan+gusto+usar.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=760&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+bots%2C+APIs+y+cosas+que+dan+gusto+usar.;Construyo+experiencias+con+l%C3%B3gica+y+detalle.;Discord+no+es+solo+mi+ecosistema%2C+es+mi+laboratorio.)](https://git.io/typing-svg)
 
-<br/>
+<br/><br/>
+
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/APIs-82AAFF?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/UI%2FUX-C792EA?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Ecuador-0D1117?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -16,33 +22,23 @@
 
 <img align="right" width="42%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeSuzu&bg_color=0d1117&color=c792ea&line=82aaff&point=c792ea&area=true&area_color=c792ea&hide_border=true&radius=8" />
 
-<br/>
-
 ### 👾 &nbsp; Sobre mí
 
-Soy **Hannae**, 18 años, desde 🇪🇨 Ecuador.  
-3 años explorando, 1 ejerciendo — y cada proyecto  
-me confirma que esto es lo mío.
+Soy **Hannae**, developer de 🇪🇨 Ecuador.  
+Trabajo con **TypeScript**, conexiones con Discord, rutas, APIs e interfaces que se sientan bien al usarlas.
 
-Me quedo en frontend porque me gusta que lo que construyo  
-**se sienta vivo**. Que dé gusto interactuar con ello,  
-que cada detalle tenga una razón de estar ahí.
-
-Minimalista por naturaleza, detallista por costumbre.  
-Mi zona favorita es el ecosistema **Discord** —  
-bots, herramientas, experiencias dentro de servidores.  
-Pero también webs, dashboards, lo que valga la pena.
+Me interesa el punto donde se juntan diseño, lógica y experiencia.  
+No me quedo solo en cómo se ve: también construyo lo que hace que funcione.
 
 <br/>
 
 ```typescript
 const hannae = {
-  edad:       18,
-  ubicacion:  "Ecuador 🇪🇨",
-  explorando: "3 años",
-  ejerciendo: "1 año",
-  enfoque:    ["Frontend", "Discord ecosystem", "UI/UX"],
-  filosofia:  "Que se vea bien. Que funcione mejor.",
+  ubicacion: "Ecuador 🇪🇨",
+  lenguaje: "TypeScript",
+  construyo: ["Bots", "APIs", "Rutas", "Interfaces"],
+  foco: "Experiencias que se sientan vivas",
+  filosofia: "Que se vea bien. Que funcione mejor.",
 };
 ```
 
@@ -52,16 +48,16 @@ const hannae = {
 
 <br/>
 
-## 🚀 &nbsp; Actualmente construyendo
+## ✨ &nbsp; Ahora mismo
 
 <br/>
 
 <div align="center">
 
-| Proyecto | Estado | Descripción |
-|----------|--------|-------------|
-| 🌸 **Hoshiko** | `En desarrollo activo` | Bot de Discord con IA, moderación y sistema de streaks |
-| 🏥 **Vet Dashboard** | `En progreso` | Panel de gestión clínica veterinaria full-stack |
+![](https://img.shields.io/badge/🌸%20Hoshiko-En%20desarrollo%20activo-c792ea?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🧠%20IA-Integraciones%20y%20flujo-82aaff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🛡️%20Seguridad-Rate%20limit%20y%20sanitizado-c792ea?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/📦%20MongoDB-Historial%20persistente-82aaff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -88,9 +84,10 @@ const hannae = {
 
 <br/>
 
-Bot de Discord con personalidad propia. Moderación inteligente por puntos, memes con ranking en tiempo real, interacciones sociales y conversación con IA vía Google Gemini.
+Bot de Discord con personalidad propia.  
+Moderación por puntos, memes con ranking en tiempo real, interacciones sociales y conversación con IA.
 
-**Por debajo:** arquitectura modular, sistema de seguridad propio (blacklist + rate limiter + sanitizer), historial persistente en MongoDB y acciones automáticas por servidor.
+**Por debajo:** arquitectura modular, seguridad propia, historial persistente en MongoDB y automatizaciones por servidor.
 
 <br/>
 
@@ -106,7 +103,7 @@ Bot de Discord con personalidad propia. Moderación inteligente por puntos, meme
 <br/>
 
 <div align="center">
-  <sub>🔒 Repositorio privado</sub>
+  <sub>🔒 Repositorio privado · desarrollo activo</sub>
 </div>
 
 <br/>
@@ -116,14 +113,15 @@ Bot de Discord con personalidad propia. Moderación inteligente por puntos, meme
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏥_DASHBOARD-Veterinaria-82aaff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🏥_VET_DASHBOARD-Panel_de_gestión-82aaff?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
 <br/>
 
-Panel de gestión completo para flujos de trabajo reales. Pacientes, citas, tratamientos, personal, facturación y portal del cliente — todo integrado.
+Dashboard para una veterinaria con flujos reales.  
+Pacientes, citas, tratamientos, personal, facturación y portal del cliente en un solo sistema.
 
-**Por debajo:** modo oscuro/claro, gestión de roles y accesos, UI pensada para que sea cómoda de usar todos los días, no solo bonita en el demo.
+**Por debajo:** roles, accesos, modo oscuro/claro y una UI pensada para uso diario, no solo para verse bonita.
 
 <br/>
 
@@ -139,7 +137,7 @@ Panel de gestión completo para flujos de trabajo reales. Pacientes, citas, trat
 <br/>
 
 <div align="center">
-  <sub>🔒 Repositorio privado</sub>
+  <sub>🔒 Repositorio privado · UI/UX + lógica de negocio</sub>
 </div>
 
 <br/>
@@ -161,31 +159,20 @@ Panel de gestión completo para flujos de trabajo reales. Pacientes, citas, trat
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,tailwind,mongodb,mysql,firebase,figma,git,linux,bash&theme=dark" />
 
-**⚡ Frontend**
+</div>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark&perline=4" />
+<br/>
 
-</td>
-<td align="center" width="33%">
+<div align="center">
 
-**🗄️ Backend & DB**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=4" />
-
-</td>
-<td align="center" width="33%">
-
-**🔧 Herramientas**
-
-<img src="https://skillicons.dev/icons?i=figma,git,linux,bash,flutter&theme=dark&perline=4" />
-
-</td>
-</tr>
-</table>
+```txt
+Frontend   → React, Next.js, Tailwind, HTML, CSS
+Backend    → Node.js, Express, APIs, rutas, integraciones
+Database   → MongoDB, MySQL, Firebase
+Tools      → Figma, Git, Linux, Bash
+```
 
 </div>
 
@@ -195,14 +182,14 @@ Panel de gestión completo para flujos de trabajo reales. Pacientes, citas, trat
 
 <br/>
 
-## 📊 &nbsp; GitHub Stats
+## 📊 &nbsp; GitHub stats
 
 <br/>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=XeSuzu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=82aaff&text_color=a9b1d6&count_private=true&rank_icon=github" height="175"/>
-&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XeSuzu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=a9b1d6&langs_count=8" height="175"/>
 
 <br/><br/>
@@ -242,7 +229,7 @@ Panel de gestión completo para flujos de trabajo reales. Pacientes, citas, trat
 ---
 
 <div align="center">
-  <sub>Abierto a colaboraciones, ideas raras y proyectos que valgan la pena construir.</sub>
+  <sub>Abierto a colaboraciones, ideas raras y proyectos que valga la pena construir.</sub>
 </div>
 
 <br/>
