@@ -2,7 +2,7 @@
   <img width="320" src="./assets/Main.gif"/>
   <br/><br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=780&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+bots%2C+APIs+y+experiencias+que+dan+gusto+usar.;Construyo+cosas+con+l%C3%B3gica%2C+detalle+y+personalidad.;Discord+es+mi+ecosistema%2C+pero+no+mi+l%C3%ADmite.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=780&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+bots%2C+APIs+y+cosas+que+dan+gusto+usar.;Construyo+experiencias+con+l%C3%B3gica%2C+detalle+y+personalidad.;Discord+es+mi+ecosistema%2C+pero+no+mi+l%C3%ADmite.)](https://git.io/typing-svg)
 
   <br/><br/>
 
@@ -28,10 +28,10 @@
 ## 👾 Sobre mí
 
 Soy **Hannae**, developer de 🇪🇨 Ecuador.  
-Trabajo con TypeScript, bots de Discord, APIs, rutas e interfaces que se sientan bien al usarlas.
+Trabajo principalmente con **TypeScript**, bots de Discord, APIs, rutas e interfaces que se sientan bien al usarlas.
 
-Me interesa el punto donde se cruzan diseño, lógica y experiencia.  
-No me quedo solo en cómo se ve algo, también me importa cómo funciona por dentro y qué tan bien se sostiene con el tiempo.
+Me gusta construir cosas con intención: que se vean bien, que respondan bien y que tengan una estructura sólida por detrás.  
+Discord es mi zona favorita para experimentar, pero no es el límite de lo que construyo.
 
 ```ts
 const hannae = {
@@ -63,16 +63,16 @@ const hannae = {
 
 ---
 
-## ✦ Highlights
+## ✦ En qué me enfoco
 
 <div align="center">
 
-| Área | Enfoque |
-|------|---------|
-| 🤖 Bots | Bots de Discord con personalidad, sistemas y features útiles |
-| 🔌 APIs | Rutas, integraciones y lógica para flujos reales |
-| 🧠 Arquitectura | Estructura modular, orden interno y escalabilidad |
-| 🎨 UI/UX | Interfaces claras, cuidadas y agradables de usar |
+| Área | Qué me gusta construir |
+|------|------------------------|
+| 🤖 Bots | Bots de Discord con personalidad, sistemas y funciones útiles |
+| 🔌 APIs | Rutas, integraciones y lógica para conectar features reales |
+| 🧠 Arquitectura | Proyectos ordenados por dentro, no solo bonitos por fuera |
+| 🎨 Experiencia | Interfaces claras, cómodas y agradables de usar |
 
 </div>
 
@@ -89,7 +89,7 @@ const hannae = {
 </div>
 
 **Hoshiko** es el proyecto donde más se nota cómo pienso y construyo.  
-Es un bot de Discord con personalidad propia, enfocado en interacción, automatización, sistemas sociales y funciones con IA.
+Es un bot de Discord con personalidad propia, pensado para interacción, automatización, sistemas sociales y funciones con IA.
 
 <details open>
 <summary><strong>Lo que tiene</strong></summary>
@@ -128,6 +128,12 @@ Es un bot de Discord con personalidad propia, enfocado en interacción, automati
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="180" src="./assets/gif(1).gif"/>
 </div>
 
 ---
@@ -195,4 +201,10 @@ Tools      → Figma, Git, Linux, Bash
 
 <img src="https://komarev.com/ghpvc/?username=XeSuzu&style=flat-square&color=c792ea&label=profile+views" />
 
+</div>
+
+---
+
+<div align="center">
+  <sub>Abierto a colaboraciones, ideas raras y proyectos que valga la pena construir.</sub>
 </div>
