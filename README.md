@@ -1,106 +1,84 @@
 <div align="center">
+  <img width="320" src="./assets/Main.gif"/>
+  <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Hannae&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%94%20TypeScript%20%C2%B7%20Bots%20%C2%B7%20APIs%20%C2%B7%20UI&descSize=18&descAlignY=58&descColor=a9b1d6&animation=fadeIn" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=780&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+bots%2C+APIs+y+experiencias+que+dan+gusto+usar.;Construyo+cosas+con+l%C3%B3gica%2C+detalle+y+personalidad.;Discord+es+mi+ecosistema%2C+pero+no+mi+l%C3%ADmite.)](https://git.io/typing-svg)
 
-<br/>
+  <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=780&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+bots%2C+APIs+y+experiencias+que+dan+gusto+usar.;Construyo+cosas+con+l%C3%B3gica%2C+detalle+y+personalidad.;Discord+es+mi+ecosistema%2C+pero+no+mi+l%C3%ADmite.)](https://git.io/typing-svg)
+  <a href="https://www.instagram.com/nt_1xs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/XeSuzu">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://www.instagram.com/nt_1xs/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://discord.com/users/XeSuzu">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![](https://img.shields.io/badge/APIs-82AAFF?style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/UI%2FUX-C792EA?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Ecuador-0D1117?style=for-the-badge&logo=github&logoColor=white)
-
+  ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![](https://img.shields.io/badge/APIs-82AAFF?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![](https://img.shields.io/badge/UI%2FUX-C792EA?style=for-the-badge&logo=figma&logoColor=white)
+  ![](https://img.shields.io/badge/Ecuador-0D1117?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
 ---
 
-<br/>
-
-<img align="right" width="42%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeSuzu&bg_color=0d1117&color=c792ea&line=82aaff&point=c792ea&area=true&area_color=c792ea&hide_border=true&radius=8" />
-
-## 👾 &nbsp; Sobre mí
+## 👾 Sobre mí
 
 Soy **Hannae**, developer de 🇪🇨 Ecuador.  
-Trabajo principalmente con **TypeScript**, bots de Discord, APIs, rutas e interfaces que se sientan bien al usarlas.
+Trabajo con TypeScript, bots de Discord, APIs, rutas e interfaces que se sientan bien al usarlas.
 
-Me gusta el punto donde se cruzan diseño, estructura y experiencia.  
-No busco solo que algo se vea bien, sino que tenga lógica, personalidad y una base sólida detrás.
-
-<br/>
+Me interesa el punto donde se cruzan diseño, lógica y experiencia.  
+No me quedo solo en cómo se ve algo, también me importa cómo funciona por dentro y qué tan bien se sostiene con el tiempo.
 
 ```ts
 const hannae = {
   name: "Hannae",
   location: "Ecuador 🇪🇨",
   mainLanguage: "TypeScript",
-  role: "Developer",
   focus: [
     "Discord bots",
     "APIs",
     "Routes",
-    "UI that feels good to use",
+    "UI that feels good to use"
   ],
   currentlyBuilding: ["Hoshiko"],
   stack: {
     frontend: ["React", "Next.js", "TailwindCSS", "HTML", "CSS"],
     backend: ["Node.js", "Express", "REST APIs", "Discord.js"],
     databases: ["MongoDB", "MySQL", "Firebase"],
-    tools: ["Git", "Linux", "Bash", "Figma"],
+    tools: ["Git", "Linux", "Bash", "Figma"]
   },
   strengths: [
     "Modular architecture",
     "Real-time systems",
-    "Persistent data flows",
-    "Developer experience",
+    "Persistent flows",
+    "Developer experience"
   ],
-  philosophy: "Que se vea bien. Que funcione mejor.",
+  philosophy: "Que se vea bien. Que funcione mejor."
 };
 ```
 
-<br/><br/>
-
 ---
 
-<br/>
-
-## ✦ &nbsp; Highlights
-
-<br/>
+## ✦ Highlights
 
 <div align="center">
 
 | Área | Enfoque |
 |------|---------|
 | 🤖 Bots | Bots de Discord con personalidad, sistemas y features útiles |
-| 🔌 APIs | Rutas, integraciones y flujos conectados para features reales |
+| 🔌 APIs | Rutas, integraciones y lógica para flujos reales |
 | 🧠 Arquitectura | Estructura modular, orden interno y escalabilidad |
-| 🎨 UI/UX | Interfaces cuidadas, claras y agradables de usar |
+| 🎨 UI/UX | Interfaces claras, cuidadas y agradables de usar |
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## 🌸 &nbsp; Proyecto principal
-
-<br/>
+## 🌸 Proyecto principal
 
 <div align="center">
 
@@ -110,10 +88,8 @@ const hannae = {
 
 </div>
 
-<br/>
-
 **Hoshiko** es el proyecto donde más se nota cómo pienso y construyo.  
-Es un bot de Discord con personalidad propia, centrado en interacción, automatización, sistemas sociales y funciones con IA.
+Es un bot de Discord con personalidad propia, enfocado en interacción, automatización, sistemas sociales y funciones con IA.
 
 <details open>
 <summary><strong>Lo que tiene</strong></summary>
@@ -154,23 +130,15 @@ Es un bot de Discord con personalidad propia, centrado en interacción, automati
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## 🛠️ &nbsp; Stack técnico
-
-<br/>
+## 🛠️ Stack técnico
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,tailwind,mongodb,mysql,firebase,figma,git,linux,bash&theme=dark" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -183,15 +151,9 @@ Tools      → Figma, Git, Linux, Bash
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## 🏆 &nbsp; Logros visuales
-
-<br/>
+## 🏆 Logros visuales
 
 <div align="center">
 
@@ -199,15 +161,9 @@ Tools      → Figma, Git, Linux, Bash
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## 📊 &nbsp; GitHub stats
-
-<br/>
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -221,15 +177,9 @@ Tools      → Figma, Git, Linux, Bash
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## 🌐 &nbsp; Conecta conmigo
-
-<br/>
+## 🌐 Conecta conmigo
 
 <div align="center">
 
@@ -245,18 +195,4 @@ Tools      → Figma, Git, Linux, Bash
 
 <img src="https://komarev.com/ghpvc/?username=XeSuzu&style=flat-square&color=c792ea&label=profile+views" />
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>Abierto a colaboraciones, ideas raras y proyectos que valga la pena construir.</sub>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=fadeIn"/>
 </div>
