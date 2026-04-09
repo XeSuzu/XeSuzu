@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;Frontend+dev+con+alma+de+dise%C3%B1ador.;Discord+ecosystem+is+my+home.;Construyo+cosas+que+dan+gusto+usar.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;Frontend+dev+con+alma+de+dise%C3%B1ador.;El+ecosistema+Discord+es+mi+casa.;Construyo+cosas+que+dan+gusto+usar.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,7 +29,7 @@ Me quedo en frontend porque me gusta que lo que construyo
 que cada detalle tenga una razón de estar ahí.
 
 Minimalista por naturaleza, detallista por costumbre.  
-Mi zona favorita por ahora es el ecosistema **Discord** —  
+Mi zona favorita es el ecosistema **Discord** —  
 bots, herramientas, experiencias dentro de servidores.  
 Pero también webs, dashboards, lo que valga la pena.
 
@@ -37,16 +37,35 @@ Pero también webs, dashboards, lo que valga la pena.
 
 ```typescript
 const hannae = {
-  edad:      18,
-  ubicacion: "Ecuador 🇪🇨",
+  edad:       18,
+  ubicacion:  "Ecuador 🇪🇨",
   explorando: "3 años",
   ejerciendo: "1 año",
-  enfoque:   ["Frontend", "Discord ecosystem", "UI/UX"],
-  filosofia: "Que se vea bien. Que funcione mejor.",
+  enfoque:    ["Frontend", "Discord ecosystem", "UI/UX"],
+  filosofia:  "Que se vea bien. Que funcione mejor.",
 };
 ```
 
 <br/><br/>
+
+---
+
+<br/>
+
+## 🚀 &nbsp; Actualmente construyendo
+
+<br/>
+
+<div align="center">
+
+| Proyecto | Estado | Descripción |
+|----------|--------|-------------|
+| 🌸 **Hoshiko** | `En desarrollo activo` | Bot de Discord con IA, moderación y sistema de streaks |
+| 🏥 **Vet Dashboard** | `En progreso` | Panel de gestión clínica veterinaria full-stack |
+
+</div>
+
+<br/>
 
 ---
 
@@ -83,6 +102,13 @@ Bot de Discord con personalidad propia. Moderación inteligente por puntos, meme
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
+
+<br/>
+
+<div align="center">
+  <sub>🔒 Repositorio privado</sub>
+</div>
+
 <br/>
 </td>
 
@@ -109,6 +135,13 @@ Panel de gestión completo para flujos de trabajo reales. Pacientes, citas, trat
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
+
+<br/>
+
+<div align="center">
+  <sub>🔒 Repositorio privado</sub>
+</div>
+
 <br/>
 </td>
 </tr>
@@ -194,8 +227,8 @@ Panel de gestión completo para flujos de trabajo reales. Pacientes, citas, trat
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tu-linkedin-aqui">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://discord.com/users/XeSuzu">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <br/><br/>
