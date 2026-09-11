@@ -183,7 +183,7 @@ Tools       → Figma, Git, Linux, Bash
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XeSuzu&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=82aaff&currStreakLabel=c792ea&sideLabels=a9b1b6&dates=a9b1b6&stroke=0d1117" height="175" alt="Racha de GitHub"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XeSuzu&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=82aaff&currStreakLabel=c792ea&sideLabels=a9b1a6&dates=a9b1a6&stroke=0d1117" height="175" alt="Racha de GitHub"/>
 
 </div>
 
@@ -203,7 +203,11 @@ Tools       → Figma, Git, Linux, Bash
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=XeSuzu&style=flat-square&color=c792ea&label=profile+views" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=XeSuzu&style=flat-square&color=c792ea&label=profile+hits" alt="Cargas registradas del perfil" />
+
+<br/>
+
+<sub>El contador representa cargas registradas del perfil, no visitantes únicos.</sub>
 
 </div>
 
