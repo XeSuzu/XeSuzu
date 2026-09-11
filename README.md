@@ -1,24 +1,25 @@
 <div align="center">
-  <img width="320" src="./assets/Main.gif"/>
+  <img width="320" src="./assets/Main.gif" alt="Hannae developer banner"/>
   <br/><br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=780&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+bots%2C+APIs+y+cosas+que+dan+gusto+usar.;Construyo+experiencias+con+l%C3%B3gica%2C+detalle+y+personalidad.;Discord+es+mi+ecosistema%2C+pero+no+mi+l%C3%ADmite.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=780&lines=Si+no+se+siente+bien+usarlo%2C+no+est%C3%A1+terminado.;TypeScript%2C+APIs%2C+bases+de+datos+y+cosas+que+dan+gusto+usar.;Construyo+software+con+l%C3%B3gica%2C+detalle+y+personalidad.;Discord+es+mi+ecosistema%2C+pero+no+mi+l%C3%ADmite.)](https://git.io/typing-svg)
 
   <br/><br/>
 
   <a href="https://www.instagram.com/nt_1xs/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://discord.com/users/XeSuzu">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
   <br/><br/>
 
   ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![](https://img.shields.io/badge/Backend-82AAFF?style=for-the-badge&logo=node.js&logoColor=white)
   ![](https://img.shields.io/badge/APIs-82AAFF?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![](https://img.shields.io/badge/Databases-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![](https://img.shields.io/badge/UI%2FUX-C792EA?style=for-the-badge&logo=figma&logoColor=white)
   ![](https://img.shields.io/badge/Ecuador-0D1117?style=for-the-badge&logo=github&logoColor=white)
 </div>
@@ -27,22 +28,25 @@
 
 ## 👾 Sobre mí
 
-Soy **Hannae**, developer de 🇪🇨 Ecuador.  
-Trabajo principalmente con **TypeScript**, bots de Discord, APIs, rutas e interfaces que se sientan bien al usarlas.
+Soy **Hannae**, developer de 🇪🇨 Ecuador.
 
-Me gusta construir cosas con intención: que se vean bien, que respondan bien y que tengan una estructura sólida por detrás.  
-Discord es mi zona favorita para experimentar, pero no es el límite de lo que construyo.
+Me interesa construir software que combine lógica sólida, buena experiencia de usuario y una estructura fácil de mantener. Trabajo principalmente con **TypeScript**, desarrollo web, APIs, bases de datos, automatización e integraciones.
+
+Discord es uno de los espacios donde más experimento, pero mi interés va más allá de los bots. Me gusta crear sistemas completos: desde la lógica del backend y la persistencia de datos hasta la interfaz y la experiencia final.
+
+Actualmente desarrollo proyectos como **Hoshiko**, mientras sigo explorando nuevas formas de construir software útil, visual y con personalidad.
 
 ```ts
 const hannae = {
   name: "Hannae",
   location: "Ecuador 🇪🇨",
-  mainLanguage: "TypeScript",
+  primaryLanguage: "TypeScript",
   focus: [
-    "Discord bots",
-    "APIs",
-    "Routes",
-    "UI that feels good to use"
+    "Software development",
+    "Backend systems",
+    "APIs and integrations",
+    "Databases",
+    "User experience"
   ],
   currentlyBuilding: ["Hoshiko"],
   stack: {
@@ -53,8 +57,8 @@ const hannae = {
   },
   strengths: [
     "Modular architecture",
-    "Real-time systems",
-    "Persistent flows",
+    "Persistent systems",
+    "Real-time features",
     "Developer experience"
   ],
   philosophy: "Que se vea bien. Que funcione mejor."
@@ -69,53 +73,56 @@ const hannae = {
 
 | Área | Qué me gusta construir |
 |------|------------------------|
-| 🤖 Bots | Bots de Discord con personalidad, sistemas y funciones útiles |
-| 🔌 APIs | Rutas, integraciones y lógica para conectar features reales |
-| 🧠 Arquitectura | Proyectos ordenados por dentro, no solo bonitos por fuera |
+| 💻 Desarrollo | Aplicaciones y sistemas con lógica clara y estructura mantenible |
+| 🔌 Backend | APIs, integraciones, automatizaciones y servicios persistentes |
+| 🗄️ Datos | Sistemas con MongoDB, MySQL y Firebase |
 | 🎨 Experiencia | Interfaces claras, cómodas y agradables de usar |
+| 🤖 Integraciones | Bots, herramientas y funciones conectadas con servicios externos |
 
 </div>
 
 ---
 
-## 🌸 Proyecto principal
+## 🌸 Una muestra de lo que construyo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HOSHIKO-Discord%20Bot-c792ea?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Estado-En%20desarrollo%20activo-82aaff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Acceso-Privado-c792ea?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/HOSHIKO-Discord%20Bot-c792ea?style=for-the-badge&labelColor=0d1117" alt="Hoshiko Discord Bot" />
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo%20activo-82aaff?style=for-the-badge&labelColor=0d1117" alt="Estado: desarrollo activo" />
+<img src="https://img.shields.io/badge/Acceso-Privado-c792ea?style=for-the-badge&labelColor=0d1117" alt="Acceso privado" />
 
 </div>
 
-**Hoshiko** es el proyecto donde más se nota cómo pienso y construyo.  
-Es un bot de Discord con personalidad propia, pensado para interacción, automatización, sistemas sociales y funciones con IA.
+**Hoshiko** es un proyecto privado en desarrollo que utilizo para experimentar con TypeScript, Discord.js, bases de datos, sistemas persistentes, integraciones con IA y arquitectura modular.
+
+No representa todo lo que construyo, pero sí muestra cómo diseño y conecto diferentes sistemas dentro de una aplicación real.
 
 <details open>
-<summary><strong>Lo que tiene</strong></summary>
+<summary><strong>Lo que demuestra</strong></summary>
 
 <br/>
 
-- Moderación basada en puntos.
-- Sistema de memes con ranking en tiempo real.
-- Interacciones sociales dentro de servidores.
-- Conversación con IA.
-- Historial persistente por usuario y contexto.
+- Desarrollo de funcionalidades con TypeScript.
+- Integración con Discord mediante Discord.js.
+- Persistencia de datos y estado mediante MongoDB.
+- Sistemas sociales e interacciones dentro de servidores.
+- Conversación con IA y contexto persistente.
 - Acciones automáticas configurables por servidor.
+- Manejo de permisos, seguridad y límites de uso.
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Por debajo</strong></summary>
 
 <br/>
 
 - Arquitectura modular.
-- Sistema de seguridad propio.
+- Separación entre lógica, handlers y features.
 - Blacklist, rate limiter y sanitizado.
-- Integración con MongoDB.
 - Manejo de estado y persistencia.
-- Separación clara entre lógica, handlers y features.
+- Integración con servicios externos.
+- Diseño orientado a mantener y ampliar el proyecto.
 
 </details>
 
@@ -133,7 +140,7 @@ Es un bot de Discord con personalidad propia, pensado para interacción, automat
 <br/>
 
 <div align="center">
-  <img width="180" src="./assets/gif(1).gif"/>
+  <img width="180" src="./assets/gif(1).gif" alt="Hoshiko project animation"/>
 </div>
 
 ---
@@ -142,24 +149,25 @@ Es un bot de Discord con personalidad propia, pensado para interacción, automat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,tailwind,mongodb,mysql,firebase,figma,git,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,tailwind,mongodb,mysql,firebase,figma,git,linux,bash&theme=dark" alt="Tecnologías utilizadas" />
 
 </div>
 
 <div align="center">
 
 ```txt
-Frontend   → React, Next.js, Tailwind, HTML, CSS
-Backend    → Node.js, Express, APIs, rutas, integraciones
-Database   → MongoDB, MySQL, Firebase
-Tools      → Figma, Git, Linux, Bash
+Principal   → TypeScript, Node.js, Discord.js, MongoDB
+Frontend    → React, Next.js, Tailwind, HTML, CSS
+Backend     → Express, REST APIs, integraciones y automatización
+Database    → MongoDB, MySQL, Firebase
+Tools       → Figma, Git, Linux, Bash
 ```
 
 </div>
 
 ---
 
-## 🏆 Logros visuales
+## 🏆 Actividad en GitHub
 
 <div align="center">
 
@@ -167,19 +175,15 @@ Tools      → Figma, Git, Linux, Bash
 
 </div>
 
----
-
-## 📊 GitHub stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XeSuzu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=82aaff&text_color=a9b1d6&count_private=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=XeSuzu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=82aaff&text_color=a9b1d6&count_private=true&rank_icon=github" height="175" alt="Estadísticas de GitHub"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=XeSuzu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=a9b1d6&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=XeSuzu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=a9b1d6&langs_count=8" height="175" alt="Lenguajes más utilizados"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XeSuzu&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=82aaff&currStreakLabel=c792ea&sideLabels=a9b1d6&dates=a9b1d6&stroke=0d1117" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XeSuzu&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=82aaff&currStreakLabel=c792ea&sideLabels=a9b1b6&dates=a9b1b6&stroke=0d1117" height="175" alt="Racha de GitHub"/>
 
 </div>
 
@@ -190,16 +194,16 @@ Tools      → Figma, Git, Linux, Bash
 <div align="center">
 
 <a href="https://www.instagram.com/nt_1xs/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://discord.com/users/XeSuzu">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=XeSuzu&style=flat-square&color=c792ea&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=XeSuzu&style=flat-square&color=c792ea&label=profile+views" alt="Visitas al perfil" />
 
 </div>
 
